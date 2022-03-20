@@ -5,6 +5,7 @@ import {
   Route,
 } from 'react-router-dom';
 import StoreProvider from 'components/store/Provider';
+import RoutesPrivate from 'components/Routes/Private/Private'
 import Home from './Home/Home';
 import Login from './Login/Login';
 
