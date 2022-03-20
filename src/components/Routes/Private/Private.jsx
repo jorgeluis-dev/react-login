@@ -15,3 +15,5 @@ const RoutePrivate = ({ component: Component, ...rest}) => {
         />
     )
 }
+
+export default RoutePrivate;
